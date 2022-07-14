@@ -5,19 +5,19 @@
 # Collection of various templates written in HTML, CSS and some Javascript for you to use on your website
 
 # Model One - Modelo Um
-<img src="web_design/templates/01.png">
+<img src="templates/01.png">
 
 # Model Two - Modelo Dois
-<img src="web_design/templates/02.png">
+<img src="templates/02.png">
 
 # Model Three - Modelo Três
-<img src="web_design/templates/03.png">
+<img src="templates/03.png">
 
 # Model Four - Modelo Quatro
-<img src="web_design/templates/04.png">
+<img src="templates/04.png">
 
 # Model Five - Modelo Cinco
-<img src="web_design/templates/05.png">
+<img src="templates/05.png">
 
 # Copyright 2022. Eduardo Programador
 
